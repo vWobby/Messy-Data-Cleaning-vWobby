@@ -1,6 +1,6 @@
 ## Project Overview
 
-Description: Data cleaning pipeline for an employee dataset implemented as a Jupyter notebook. Dataset is extracted Kaggle, a large database with various datasets used for machine learning and other coding means. \n
+Description: Data cleaning pipeline for an employee dataset implemented as a Jupyter notebook. Dataset is extracted Kaggle, a large database with various datasets used for machine learning and other coding means. 
 
 Link: https://www.kaggle.com/datasets/desolution01/messy-employee-dataset
 
